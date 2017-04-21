@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Monkey Island Swordfight</string>
+
+    <!-- Discorsi Turns -->
+    <string name="intro_scabb">Deep in the Caribbean, Scabb Island</string>
+    <string name="pirata_incredulo">I\'m insulted you\'d even try to use that insult on me!</string>
+    <string name="pirata_vinto">Ahahah i won!</string>
+    <string name="carla_vince">I hope this teaches you a lesson. Now SCRAM!</string>
+    <string name="guybrush_scappa">Hey! It\'s late.. Goodbye!</string>
+    <string name="ready_carla">Wow! You\'re good enough to fight\nthe Sword Master!</string>
+    <string name="pirata_perde">I give up! You win!</string>
+
+    <!-- Discorso Intro -->
+    <string-array name="pirate1_intro">
+        <item>I think I know how he must have felt.</item>
+        <item>Don\'t you have any NEW stories?</item>
+        <item>Uhm...</item>
+        <item>Err...</item>
+        <item>\"I\'m shaking, I\'m shaking.\"</item>
+        <item>\"How appropriate. You fight like a cow.\"</item>
+    </string-array>
+    <string-array name="pirate2_intro">
+        <item>Yeah, if I hear this story one more time, I\'m gonna be crying myself.</item>
+        <item>Ehm...</item>
+        <item>Better this than the one about LeChuck...</item>
+        <item>Uhm...</item>
+        <item>\"I am rubber, you are glue.\"</item>
+        <item>\"How appropriate. You fight like a cow.\"</item>
+    </string-array>
+    <string-array name="guybrush_intro">
+        <item>So I bust into the church and say, \"Now you\'re in for it, you bilious bag of barnacle bait!\"</item>
+        <item>...and then LeChuck cries,\"Guybrush! Have mercy!\"</item>
+        <item>\"I never deserved your Elain\'s hand\"</item>     
+        <item>Of course!</item>
+        <item>Did I ever tell you how I defeated...</item>
+        <item>..the Sword Master of Mêlèe Island™</item>
+        <item>Capitain Smirk taught me the true secret of sword fighting!</item>
+        <item>He told me:</item>
+        <item>\"It\'s not always what you do, but what you say.\"</item>
+        <item>In short, the pros...</item>
+        <item>...they know just when to cut their opponent with an insult...</item>
+        <item>...one that catches \'em off guard.</item>
+        <item>Your wit\'s got to be twice as sharp as your sword!</item>
+        <item>Imagine this:</item>
+        <item>We\'re fighting up a storm...</item>
+        <item>There\'s a sudden break in the fighting and I say to you...</item>
+        <item>\"You fight like a dairy farmer.\"</item>
+        <item>You respond with?</item>
+        <item>No!</item>
+        <item>You should have responded with something like...</item>
+        <item>\"How appropriate. You fight like a cow.\"</item>
+        <item>You see?</item>
+        <item>It\'s razor-sharp wit like that, that wins fights!</item>
+        <item>Let\'s try another, I say...</item>
+        <item>\"Soon you\'ll be wearing my sword like a shish-kebab!\"</item>
+        <item>You respond with?</item>
+        <item>No! No! No!</item>
+        <item>That was the response from the last insult.</item>
+        <item>A correct response is:</item>
+        <item>\"First you\'d better stop waving it around like a feather-duster.\"</item>
+        <item>See?</item>
+        <item>..razor-sharp!</item>
+        <item>I said...</item>
+        <item>..I had to challenge many pirates...</item>
+        <item>..to learn the insults...</item>
+        <item>...to master this technique!</item>
+        <item>Hey! Where have you gone?</item>
+        <item>Tsk!</item>
+        <item>Those guys wouldn\'t know a good story even if they paid fifty bucks for it.</item>
+        
+        <item>Oh well..</item>
+        <item>...</item>
+        <item>So?</item>
+        <item>...</item>
+        <item>No credits?</item>
+        <item>...</item>
+        <item>Aaaaaaand....NOW!</item>
+        <item>...</item>
+        <item>I\'ve never been able to predict when will the ending credits po..</item>
+    </string-array>
+
+    <!-- GUYBRUSH E PIRATA -->
+    <string-array name="pirate_intro">
+        <item>What ya be wantin\' ya scurvy lubber?</item>   
+        <item>Aye, this better be importan\'.</item>       
+        <item>Stoppin\' a pirate can be dangerous to yer health.</item>
+        <item>Move outta the way, or I cuts  my way through!</item>     
+        <item>Hey, are you the delivery boy I\'ve been waiting for hours?</item>
+        
+    </string-array>
+    <string-array name="guybrush_start_pirate">
+        <item>My name is Guybrush Threepwood. Prepare to die!</item>     
+        <item>What are you?</item>
+        <item>Behind you! A three headed monkey!</item>    
+        <item>Sorry to bother you. I\'ll be on my way.</item>
+    </string-array>
+    <string-array name="pirate_start">
+        <item>Die? Don\'t make me laugh, my scar hurts..</item>
+        <item>I\'ve got an ugly face, i reek and i say Aaaaarrr. What am i?!</item>
+        <item>I heard he\'s got his own show in Disneyland&#8482;, nice attempt though..</item>
+        <item>Good, now get outta here noob.</item>
+    </string-array>
+
+    <!-- GUYBRUSH E CARLA -->
+    <string-array name="guybrush_start_carla">
+        <item>My name is Guybrush Threepwood. Prepare to die!</item>       
+        <item>I\'m sorry, I was following an old merchant and found myself here somehow.</item>      
+        <item>I\'m selling these fine leather jackets.</item>
+    </string-array>
+    <string-array name="carla_start_0">
+        <item>Nothing like being honest.</item>      
+        <item>I doubt it... the stench that yokel leaves behind when he\'s around is very difficult to ignore.</item>        
+    </string-array>
+    <string-array name="carla_start_1">
+        <item>Do you have one in size 3?</item>
+        <item>Of course you don\'t!</item>
+        <item>Because you\'re not really a jacket salesman!</item>
+    </string-array>
+    <string-array name="guybrush_answer_carla">
+        <item>I\'m back, and boy are you in trouble this time.</item>
+        <item>Yep, nailed it right on the head... gee, you\'re smart.</item>
+    </string-array>
+    <string-array name="carla_answer">
+        <item>I can tell by the sarcastic expression on your face that you\'ve been fully trained by Captain Smirk.</item>        
+        <item>Let me guess... you\'re here for The Three Trials down at the Scumm Bar?&#8482;?</item>
+        <item>You hope to become as disgusting as them, don\'t you?</item>       
+        <item>Let\'s get this over with.</item>
+    </string-array>
+    <string-array name="carla_lose">
+        <item>Well... I hope you\'re happy.</item>
+        <item>You can go back and brag to all your friends about how you beat the Sword Master.</item>
+        <item>You\'ll need proof...</item>
+        <item>Here, this should convince them.</item>
+    </string-array>
+
+    <!-- INSULTI -->
+    <string-array name="insulti">
+        <item>You fight like a dairy farmer.</item>
+        <item>Soon you\'ll be wearing my sword like a shish kebab!</item>
+        <item>You\'re no match for my brains, you poor fool.</item>
+        <item>Nobody\'s ever drawn blood from me and nobody ever will!</item>
+        <item>I once owned a dog that was smarter than you.</item>
+        <item>You make me want to puke.</item>
+        <item>Have you stopped wearing diapers yet?</item>
+        <item>I\'m not going to take your insolence sitting down!</item>
+        <item>People fall at my feet when they see me coming.</item>
+        <item>This is the END for you, you gutter-crawling cur!</item>
+        <item>You have the manners of a beggar.</item>
+        <item>I got this scar on my face during a mighty struggle!</item>
+        <item>There are no words for how disgusting you are.</item>
+        <item>I\'ve heard you were a contemptible sneak.</item>
+        <item>My handkerchief will wipe up your blood!</item>
+        <item>I\'ve spoken with apes more polite than you.</item>
+    </string-array>
+    
+    <string-array name="insulti_plus">
+        <item>Boy are you ugly!</item>
+        <item>What an idiot!</item>
+        <item>I give up, you win!</item>
+    </string-array>
+   
+    <string-array name="insulti_mi3">
+        <item>Every enemy I\'ve met I\'ve annihilated!</item>
+        <item>You\'re as repulsive as a monkey in a negligee.</item>
+        <item>Throughout the Caribbean, my great deeds are celebrated.</item>
+        <item>En garde! Touché!</item>
+        <item>Coming face to face with me must leave you petrified!</item>
+        <item>Heaven preserve me! You look like something that\'s died!</item>
+        <item>I\'ll leave you devastated, mutilated and perforated.</item>
+        <item>I can\'t rest \'til you\'ve been exterminated!</item>
+        <item>Killing you would be justifiable homicide!</item>
+        <item>I have never seen such clumsy swordplay.</item>
+        <item>You\'re the ugliest monster ever created!</item>
+        <item>Would you like to be buried or cremated?</item>
+        <item>I\'ll hound you night and day!</item>
+        <item>You can\'t match my witty repartee!]</item>
+        <item>I\'ll skewer you, like a sow at a buffet!</item>
+        <item>When your father first saw you, he must have been mortified.</item>  
+    </string-array>
+    
+    <string-array name="insultiCarla">
+        <item>I will milk every drop of blood from your body!</item>
+        <item>My tongue is sharper than any sword.</item>
+        <item>I\'ve got the courage and skill of a master swordsman!</item>
+        <item>No one will ever catch ME fighting as badly as you do.</item>
+        <item>Only once have I met such a coward!</item>
+        <item>If your brother\'s like you, better to marry a pig.</item>
+        <item>I hope you have a boat ready for a quick escape.</item>
+        <item>You are a pain in the backside, sir!</item>
+        <item>I usually see people like you passed-out on tavern floors.</item>
+        <item>I\'ve got a long, sharp lesson for you to learn today.</item>
+        <item>Every word you say to me is stupid.</item>
+        <item>My last fight ended with my hands covered with blood.</item>
+        <item>There are no clever moves that can help you now.</item>
+        <item>My sword is famous all over the Caribbean!</item>
+        <item>My name is feared in every dirty corner of this island!</item>
+        <item>Now I know what filth and stupidity really are.</item>
+    </string-array>
+    
+    <string-array name="insultiCarla_mi3">
+        <item>My attacks have left entire islands depopulated!</item>
+        <item>You have the sex appeal of a Shar-Pei.</item>
+        <item>My skills with a sword are highly venerated.</item>
+        <item>Your mother wears a toupee!</item>
+        <item>Never before have I faced someone so sissified.</item>
+        <item>Nothing on this earth can save your sorry hide!</item>
+        <item>I can\'t tell which of my traits has you the most intimidated.</item>
+        <item>Your stench would make an outhouse cleaner irritated!</item>
+        <item>When I\'m done, your body will be rotted and putrefied!</item>
+        <item>I have never lost a mêlée!</item>
+        <item>Your looks would make pigs nauseated.</item>
+        <item>I give you a choice. You can be gutted, or decapitated!</item>
+        <item>You\'ll find I\'m dogged and relentless to my prey!</item>
+        <item>Nothing can stop me from blowing you away!</item>
+        <item>Your lips look like they belong on the catch of the day.</item>
+        <item>You\'re a disgrace to your species, you\'re so undignified!</item>
+    </string-array>
+    
+    <string-array name="controInsulti">
+        <item>How appropriate. You fight like a cow.</item>
+        <item>First you\'d better stop waving it like a feather-duster.</item>
+        <item>I\'d be in real trouble if you ever used them.</item>
+        <item>You run THAT fast?</item>
+        <item>He must have taught you everything you know.</item>
+        <item>You make me think somebody already did.</item>
+        <item>Why, did you want to borrow one?</item>
+        <item>Your hemorrhoids are flaring up again, eh?</item>
+        <item>Even BEFORE they smell your breath?</item>
+        <item>And I\'ve got a little TIP for you. Get the POINT?</item>
+        <item>I wanted to make sure you\'d feel comfortable with me.</item>
+        <item>I hope now you\'ve learned to stop picking your nose.</item>
+        <item>Yes there are. You just never learned them.</item>
+        <item>Too bad no one\'s ever heard of YOU at all.</item>
+        <item>So you got that job as janitor, after all.</item>
+        <item>I\'m glad to hear you attended your family reunion.</item>
+    </string-array>
+    
+    <string-array name="ControInsulti_plus">
+        <item>Oh yeah?</item>
+        <item>I am rubber, you are glue.</item>
+        <item>I\'m shaking, I\'m shaking.</item>
+        <item>Uhh... Could you repeat that? I didn\'t quite get it.</item>
+        <item>I give up, you win!</item>
+    </string-array>
+    
+    <string-array name="controInsulti_mi3">
+        <item>With your breath, I\'m sure they all suffocated.</item>
+        <item>I look THAT much like your fiancée?</item>
+        <item>Too bad they\'re all fabricated.</item>
+        <item>Oh, that is so cliché!</item>
+        <item>Is that your face? I thought it was your backside.</item>
+        <item>The only way you\'ll be preserved is in formaldehyde.</item>
+        <item>Your odor alone makes me aggravated, agitated and infuriated.</item>
+        <item>Then perhaps you should switch to decaffeinated.</item>
+        <item>Then killing you must be justifiable fungicide.</item>
+        <item>You would have, but you were always running away.</item>
+        <item>If you don\'t count all the ones you\'ve dated.</item>
+        <item>With you around, I\'d prefer to be fumigated.</item>
+        <item>Then be a good dog. Sit! Stay!</item>
+        <item>I could, if you would use some breath spray.</item>
+        <item>When I\'m done with YOU, you\'ll be a boneless fillet.</item>
+        <item>At least mine can be identified.</item>
+    </string-array>
+
+</resources>

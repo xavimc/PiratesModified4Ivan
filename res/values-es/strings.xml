@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Monkey Island Swordfight</string>
+
+    <!-- Discorsi Turns -->
+    <string name="intro_scabb">En lo más profundo del Caribe la isla Scabb</string>
+    <string name="pirata_incredulo">¡Me ofende que trates de insultarme de esa forma!</string>
+    <string name="pirata_vinto">¡Ajajajaj, seras marica, he ganado!</string>
+    <string name="carla_vince">Espero que aprendas la lección. ¡Ahora lárgate!</string>
+    <string name="guybrush_scappa">¡Ehi, ya es muy tarde..adios!</string>
+    <string name="ready_carla">¡Qué tío! Eres tan bueno que podrías luchar con la Maestra de la Espada.</string>
+    <string name="pirata_perde">¡Me rindo, tú ganas!</string>
+
+    <!-- Discorso Intro -->
+    <string-array name="pirate1_intro">
+        <item>Creo que puedo imaginarme cómo se sentía.</item>
+        <item>¿Es que no te sabes ninguna  historia NUEVA?</item>
+        <item>Uhm...</item>
+        <item>Err...</item>
+        <item>\"Mira cómo tiemblo.\"</item>
+        <item>\"Qué apropiado. Tú peleas como una vaca.\"</item>
+    </string-array>
+    <string-array name="pirate2_intro">
+        <item>Sí. Si escucho esta historia una vez más.. voy a ponerme a llorar.</item>
+        <item>Ehm...</item>
+        <item>Mejor ésta que la otra sobre LeChuck...</item>
+        <item>Uhm...</item>
+        <item>\"Yo soy cola, tú pegamento.\"</item>
+        <item>\"Qué apropiado. Tú peleas como una vaca.\"</item>
+    </string-array>
+    <string-array name="guybrush_intro">
+        <item>Así que entré de golpe  en la iglesia y le dije: \"Ahora sí que acabo contigo, ¡pedazo de percebe podrido!\"</item>
+        <item>... y entonces LeChuck gritó: \"¡Guybrush! ¡Apiádate de mí!\"</item>      
+        <item>\"No merezco la mano de Elaine\"</item>       
+        <item>¡Por supuesto!</item>
+        <item>¿Os he contado alguna vez cómo consegui mi regalo de navidad...</item>
+        <item>.. venciendo a la Maestra de la Espada de isla Mêlèe™?</item>
+        <item>¡El capitán Smirk me contó el verdadero secreto de la lucha con espada!</item>
+        <item>Me dijo:</item>
+        <item>\"No es siempre lo que hagas, sino lo que digas.\"</item>
+        <item>En resumen, los profesionales...</item>
+        <item>...saben cuándo cortar a sus oponentes con un insulto...</item>
+        <item>...uno que les pille desprevenidos.</item>
+        <item>Tu mente ha de ser dos veces más rápida que tu espada.</item>
+        <item>Imaginaos esto:</item>
+        <item>Estamos luchando a muerte...</item>
+        <item>Hay un inciso en la pelea y os digo...</item>
+        <item>\"Luchas como un granjero.\"</item>
+        <item>¿Y vosotros me diríais...?</item>
+        <item>No!</item>
+        <item>Teníais que haber respondido con algo como...</item>
+        <item>\"Qué apropiado. Tú peleas como una vaca.\"</item>
+        <item>¿Lo veis?</item>
+        <item>Es esa mente tan afilada la que gana peleas.</item>
+        <item>Probemos otro. Yo digo...</item>
+        <item>\"¡Llevarás mi espada como si fueras un pincho moruno!\"</item>
+        <item>¿Y vosotros diríais...?</item>
+        <item>No! No! No!</item>
+        <item>Esa es la respuesta del anterior insulto.</item>
+        <item>Una respuesta válida sería:</item>
+        <item>\"Primero deberías dejar  de usarla como un plumero.\"</item>
+        <item>¿Veis?</item>
+        <item>¡Mente afilada!</item>
+        <item>Entonces le dije...</item>
+        <item>... ¡Tengo que vencer a muchos piratas...</item>
+        <item>.. para aprender los insultos...</item>
+        <item>.. y dominar esta técnica!</item>       
+        <item>¡Hey! ¿A dónde habéis ido?</item>
+        <item>¡Ja!</item>
+        <item>Esos tíos no reconocerían una buena historia aunque les pagasen.</item>      
+        <item>Espera..</item>
+        <item>...</item>
+        <item>¿Entonces, donde esta mi regalo...?</item>
+        <item>...</item>
+        <item>¿Ni unos creditos finales?</item>
+        <item>...</item>
+        <item>¡Yyyyyy..los creditos vienen..AHORA!</item>
+        <item>...</item>
+        <item>Nunca me sale bien eso de prever los cred..</item>
+    </string-array>
+
+    <!-- GUYBRUSH E PIRATA -->
+    <string-array name="pirate_intro">
+        <item>¿Qué quieres, canalla de las cloacas?</item>
+        <item>Oye, espero que sea importante,  porque si no...</item>
+        <item>Parar a un pirata podría dañar  seriamente tu salud.</item>
+        <item>¡Quítate del medio o te rajo con mi espada!</item>       
+        <item>¿Ey, eres el mandadero que estoy esperando desde horas?</item>
+    </string-array>
+    <string-array name="guybrush_start_pirate">
+        <item>Me llamo Guybrush Threepwood. ¡Ha llegado tu hora!</item>       
+        <item>¿Qué eres tu?</item>
+        <item>¡Mira detrás de ti, ¡un mono con tres cabezas!</item>  
+        <item>Perdona por las molestias. Ya me iba.</item>
+    </string-array>
+    <string-array name="pirate_start">
+        <item>No me hagas reir que me duele mi cicatriz</item>
+        <item>Mala cara, huelo mal y digo arrrr. ¿Qué piensas que soy?</item>
+        <item>¡Sé que recientemente tiene un espectaculo suyo en Disneyland&#8482;, pero..buen intento!</item>
+        <item>¡Bueno, vete pardillo!</item>
+    </string-array>
+
+    <!-- GUYBRUSH E CARLA -->
+    <string-array name="guybrush_start_carla">
+        <item>Me llamo Guybrush Threepwood. ¡Ha llegado tu hora!</item>     
+        <item>Perdón, estaba siguiendo de cerca a un Viejo comerciante cuando llegué aquí</item>       
+        <item>Hola, vendo estas cazadoras de cuero.</item>
+    </string-array>
+    <string-array name="carla_start_0">
+        <item>Nada como ser honesto.</item>
+        <item>Dudo, cada vez que pasa ese patán deja un olor tal que no se puede no hacerle caso</item>
+    </string-array>
+    <string-array name="carla_start_1">
+        <item>¿Tienes alguna de mi talla?</item>
+        <item>¡Por supuesto que no!</item>
+        <item>¡Porque tú no eres un vendedor de chaquetas!</item>
+    </string-array>
+    <string-array name="guybrush_answer_carla">
+        <item>He vuelto, y esta vez sí que tendras problemas.</item>
+        <item>Sí, has dado en el clavo... qué lista eres.</item>
+    </string-array>
+    <string-array name="carla_answer">
+        <item>Puedo ver por esa expresión tan  sarcástica que has viciado que te cagas a Monkey Island...</item>      
+        <item>¿Dejame adivinar: estas aquí para la prueba de Xavi para conseguir tu regalo de Navidad?</item>
+        <item>¿Esperas algún día volverte tan vergonzoso como el, eh?</item>
+        <item>Acabemos con esto.</item>
+    </string-array>
+    <string-array name="carla_lose">
+        <item>Espero que estés satisfecho.</item>
+        <item>Ahora podrás fanfarronear con tus amigos sobre cómo venciste a la SwordMaster y te acostaste con ella.</item>
+        <item>Necesitarás una prueba para que te den tu regalo...</item>
+        <item>Toma, esto le convencerá.</item>
+    </string-array>
+
+    <!-- INSULTI -->
+    <string-array name="insulti">
+        <item>¡Luchas como un granjero!</item>
+        <item>¡Llevarás mi espada como si fueras un pincho moruno!</item>
+        <item>¡Demasiado bobo para mi nivel de inteligencia!</item>
+        <item>¡Nadie me ha sacado sangre jamás, y nadie lo hará!</item>
+        <item>¡Una vez tuve un perro más listo que tú!</item>
+        <item>¡Me das ganas de vomitar!</item>
+        <item>¿Has dejado ya de usar pañales?</item>
+        <item>¡No pienso aguantar tu insolencia aquí sentado!</item>
+        <item>¡La gente cae a mis pies al verme llegar!</item>
+        <item>¡Ha llegado tu HORA, palurdo de ocho patas!</item>
+        <item>¡Tienes los modales de un mendigo!</item>
+        <item>¡Obtuve esta cicatriz en mi cara en una lucha a muerte!</item>
+        <item>¡No hay palabras para describir lo asqueroso que eres!</item>
+        <item>¡He oído que eres un soplón despreciable!</item>
+        <item>¡Mi pañuelo limpiará tu sangre!</item>
+        <item>¡He hablado con simios más educados que tú!</item>
+    </string-array>
+    
+    <string-array name="insulti_plus">
+        <item>¡Qué feo eres!</item>
+        <item>¡Vaya idiota!</item>
+        <item>¡Me rindo, tú ganas!</item>
+    </string-array>
+    
+    <string-array name="insulti_mi3">
+        <item>Los enemigos contra los que me enfrenté fueron aniquilados.</item>
+        <item>Eres tan repulsivo como una mona marrana.</item>
+        <item>Mis grandes hazañas por todo el Caribe son celebradas.</item>
+        <item>¡En guardia! ¡Mamarracho!</item>
+        <item>¡Si luchas cara a cara conmigo necesitarás un consejero!</item>
+        <item>¡Que el cielo conserve mi vista! ¡Pareces muerto como el pescado!</item>
+        <item>Te dejaré devastado, mutilado y perforado.</item>
+        <item>¡No descansaré hasta que hayas sido exterminado!</item>
+        <item>¡Matarte seria un homicidio justificado!</item>
+        <item>Jamás había visto a nadie tan torpe con la espada.</item>
+        <item>¡Eres el monstruo más feo jamás creado!</item>
+        <item>¿Te gustaría ser enterrado o incinerado?</item>
+        <item>¡Te perseguiré día y noche sin ningún respeto!</item>
+        <item>¡Mis graciosos comentarios no igualarás con acierto!</item>
+        <item>¡Voy a ensartarte como a una puerca guarrería!</item>
+        <item>Cuando tu padre te vio por primera vez debió sentirse mortificado.</item>  
+    </string-array>
+    
+    <string-array name="insultiCarla">
+        <item>¡Ordeñaré hasta la última gota de sangre de tu cuerpo!</item>
+        <item>Mi lengua es más hábil que cualquier espada.</item>
+        <item>¡Tengo el coraje y la técnica de un maestro!</item>
+        <item>Nunca me verán luchar tan mal como tú lo haces.</item>
+        <item>Sólo he conocido a uno tan cobarde como tú.</item>
+        <item>Si tu hermano es como tú, mejor casarse con un cerdo.</item>
+        <item>Espero que tengas un barco para una rápida huida.</item>
+        <item>¡Eres como un dolor en la parte baja de la espalda!</item>
+        <item>Veo gente como tú arrastrándose por el suelo de los bares.</item>
+        <item>Hoy te tengo preparada una larga y dura lección.</item>
+        <item>Cada palabra que sale de tu boca es una estupidez.</item>
+        <item>¡En mi última pelea terminé con las manos llenas de sangre!</item>
+        <item>Ya no hay técnicas que te puedan salvar.</item>
+        <item>Mi espada es famosa en todo el Caribe.</item>
+        <item>¡Mi nombre es temido en cada sucio rincón de esta isla!</item>
+        <item>Ahora entiendo lo que significan basura y estupidez.</item>
+    </string-array>
+    
+    <string-array name="insultiCarla_mi3">
+        <item>Mis ataques han dejado islas enteras sin poblados.</item>
+        <item>Tienes el atractivo de una iguana.</item>
+        <item>Mis habilidades con la espada son muy veneradas.</item>
+        <item>¡Tu madre es un marimacho!</item>
+        <item>Nunca antes me había encarado a alguien tan pordiosero.</item>
+        <item>Nada podrá salvar tu pobre pellejo resecado.</item>
+        <item>No sé cuál de mis características te tiene más intimidado.</item>
+        <item>¡Tu olor hasta a un limpiador de retretes dejaría conmocionado!</item>
+        <item>Cuando termine, tu cuerpo estará podrido y disecado.</item>
+        <item>Nunca he perdido una pelea a espada.</item>
+        <item>Tu cara haría vomitar hasta al cerdo menos aseado.</item>
+        <item>Te dejaré elegir. ¡Puedes ser destripado o decapitado!</item>
+        <item>¡Persiguiendo a mi presa, la dejo en un aprieto!</item>
+        <item>Nada podrá impedirme que te arrastre como el viento.</item>
+        <item>Tus labios me recuerdan a los del pescado del día.</item>
+        <item>Eres de un linaje sucio y alocado.</item>
+    </string-array>
+    
+    <string-array name="controInsulti">
+        <item>Qué apropiado, tú peleas como una vaca.</item>
+        <item>Primero deberías dejar de usarla como un plumero.</item>
+        <item>Estaría acabado si la usases alguna vez.</item>
+        <item>¿TAN rápido corres?</item>
+        <item>Te habrá enseñado todo lo que sabes.</item>
+        <item>Me haces pensar que alguien ya lo ha hecho.</item>
+        <item>¿Por qué? ¿Acaso querías pedir uno prestado?</item>
+        <item>Ya te están fastidiando otra vez las almorranas, ¿eh?</item>
+        <item>¿Incluso ANTES de que huelan tu aliento?</item>
+        <item>Y yo tengo un SALUDO para ti, ¿te enteras?</item>
+        <item>Quería asegurarme de que estuvieras a gusto conmigo.</item>
+        <item>Espero que ya hayas aprendido a no tocarte la nariz.</item>
+        <item>Sí que las hay, sólo que nunca las has aprendido.</item>
+        <item>Qué pena me da que nadie haya oído hablar de ti.</item>
+        <item>Ah, ¿ya has obtenido ese trabajo de barrendero?</item>
+        <item>Me alegra que asistieras a tu reunión familiar diaria.</item>
+    </string-array>
+    
+    <string-array name="ControInsulti_plus">
+        <item>¿Ah sí?</item>
+        <item>Yo soy cola, tú pegamento...</item>
+        <item>Mira cómo tiemblo.</item>
+        <item>Uhh... ¿puedes repetírmelo? No te he entendido bien.</item>
+        <item>¡Me rindo, tú ganas!</item>
+    </string-array>
+    
+    <string-array name="controInsulti_mi3">
+        <item>Con tu aliento, seguro que todos fueron asfixiados.</item>
+        <item>¿Es que TANTO me parezco a tu hermana?</item>
+        <item>Qué pena que todas estén inventadas.</item>
+        <item>¡Tus palabras no son de un macho!</item>
+        <item>¿Es esa tu cara? Pensé que era tu trasero.</item>
+        <item>La única forma en la que te conservarás será disecado.</item>
+        <item>Tu solo olor me deja enfadado, agitado y enojado.</item>
+        <item>Entonces deberías cambiar a descafeinado.</item>
+        <item>Entonces matarte debe ser un fungicidio justificado.</item>
+        <item>Así habría sido, pero siempre estabas de escapada.</item>
+        <item>Si no cuentas todas las demás con las que te has citado.</item>
+        <item>Contigo alrededor, preferiría ser fumigado.</item>
+        <item>Entonces sé un buen perro. ¡Siéntate! ¡Quieto!</item>
+        <item>Podré, si utilizas un espray contra tu mal aliento.</item>
+        <item>Cuando acabe CONTIGO, serás un bistec con disentería.</item>
+        <item>Al menos el mío puede ser identificado.</item>
+    </string-array>
+
+</resources>
